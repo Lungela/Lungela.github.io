@@ -131,7 +131,7 @@ Technologies: React, Java, MySQL, JSON
 
 ## Mock Interview Video
 
-[Click here to watch my mock interview video](https://github.com/222491582/222491582.github.io/blob/main/Lungela_Nkunkuma_222491582_Mock_Interview_Video.mp4)
+[Click here to watch my mock interview video](Lungela_Nkunkuma_222491582_Mock_Interview_Video.mp4)
 
 
 ## GitHub Student Account Evidence
